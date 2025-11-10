@@ -46,6 +46,6 @@ capacita_jovem_java/
 ## 🚀 Como Executar?
 
 ### Pré-requisitos
-- Java 11 ou superior
+- Java 17 ou superior
 - Maven 3.6+
 - MySQL 8.0+ (Configurar o Banco de Dados)
